@@ -13,14 +13,14 @@ This project performs an in-depth Exploratory Data Analysis of customer demograp
 ## 📂 Dataset
 
 - **Source**: Kaggle – Policy Bazaar Dataset  
-- **Original link**: [https://www.kaggle.com/datasets/vidyadhar85/policy-bazaar](https://www.kaggle.com/datasets/vidyadhar85/policy-bazaar)  
+- **Original link**: [https://github.com/crushervp/PaisaBazaar-Banking-Fraud-Analysis](https://github.com/crushervp/PaisaBazaar-Banking-Fraud-Analysis/blob/main/dataset_compressed.csv)  
 - **Size**: ~30 MB  
-- **Download method**: via `kagglehub` (no manual download needed)
+- **Download method**: via `github` (no manual download needed)
 
 ```python
-import kagglehub
-path = kagglehub.dataset_download("vidyadhar85/policy-bazaar")
-print("Path to dataset files:", path)
+# Load dataset directly from GitHub
+url = "https://github.com/crushervp/PaisaBazaar-Banking-Fraud-Analysis/raw/main/dataset_compressed.csv"
+df = pd.read_csv(url)
 ```
 ## ⚙️ How to Run
 
