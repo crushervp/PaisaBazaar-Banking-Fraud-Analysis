@@ -44,7 +44,7 @@ pip install -r requirements.txt
 - Open and run the notebook
   - Preferred: open PaisaBazaar_Fraud_EDA.ipynb in Google Colab or Jupyter Lab / VS Code
 
-  - The dataset will be automatically downloaded via kagglehub when you run the first cells
+  - The dataset will be automatically loaded via github when you run the read_csv cell
  
 ## 📊 Key Insights
 
