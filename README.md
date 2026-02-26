@@ -12,7 +12,7 @@ This project performs an in-depth Exploratory Data Analysis of customer demograp
 
 ## 📂 Dataset
 
-- **Source**: Kaggle – Policy Bazaar Dataset  
+- **Source**: Policy Bazaar Dataset  
 - **Original link**: [https://github.com/crushervp/PaisaBazaar-Banking-Fraud-Analysis](https://github.com/crushervp/PaisaBazaar-Banking-Fraud-Analysis/blob/main/dataset_compressed.csv)  
 - **Size**: ~30 MB  
 - **Download method**: via `github` (no manual download needed)
